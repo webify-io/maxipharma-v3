@@ -68,7 +68,7 @@ section:nth-child(even) {
 
 .header .logo {
 	font-size: 2.5rem;
-	color: #000;
+	color: #FFF;
 	font-weight: 600;
 }
 
@@ -667,7 +667,7 @@ section:nth-child(even) {
 		padding-top: 2rem;
 	}
 	#logo-name {
-		visibility: hidden;
+		display: none;
 	}
 	.header .header-logo {
 		padding-left: 0;
