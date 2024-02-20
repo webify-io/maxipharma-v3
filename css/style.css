@@ -75,7 +75,7 @@ section:nth-child(even) {
 }
 sup {
 	font-size: 50%;
-	vertical-align: sub;
+	vertical-align: baseline;
 }
 
 /* ***logo position edit** */
