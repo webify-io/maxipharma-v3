@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Inclusivlight-colore+Sans&family=Poppins:wght@100;200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anta&display=swap');
 
 :root {
 	--blue: #3072df;
@@ -70,6 +71,11 @@ section:nth-child(even) {
 	font-size: 2.5rem;
 	color: #FFF;
 	font-weight: 600;
+	font-family: 'Anta', 'Trebuchet MS', sans-serif;
+}
+sup {
+	font-size: 50%;
+	vertical-align: top;
 }
 
 /* ***logo position edit** */
