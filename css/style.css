@@ -101,9 +101,9 @@ section:nth-child(even) {
 }
 /* ********** */
 .header .navbar a {
-	font-size: 2.3rem;
+	font-size: 1.8rem;
 	font-weight: 600;
-	color: var(--light-black);
+	color: #fff;
 	margin-left: 2rem;
 }
 
