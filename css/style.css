@@ -64,12 +64,12 @@ section:nth-child(even) {
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-	background-color: #003366
+	background-color: #003366;
 }
 
 .header .logo {
 	font-size: 2.5rem;
-	color: #FFF;
+	color: #fff;
 	font-weight: 600;
 	font-family: 'Anta', 'Trebuchet MS', sans-serif;
 }
@@ -595,6 +595,11 @@ sup {
 	font-size: 1.5rem;
 	color: var(--light-black);
 	border-top: 0.1rem solid rgba(0, 0, 0, 0.1);
+}
+
+.footer .credit a {
+	color: var(--blue);
+	font-weight: 600;
 }
 
 .footer .credit span {
