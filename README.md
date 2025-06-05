@@ -1,8 +1,8 @@
-# maxipharma-website
+# maxipharma-website-v3
 
 
 <a href="https://maxipharma.netlify.app/" target="_blank">
-  <img src="/images/thumbnail.png"lt="Thumbnail"/>
+  <img src="/assets/thumbnail.png"lt="Thumbnail"/>
 </a>
 
 
